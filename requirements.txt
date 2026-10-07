@@ -1,0 +1,40 @@
+# =========================
+# LangChain / Agents
+# =========================
+
+langchain
+langchain-core
+langchain-openai
+langchain-community
+langgraph
+
+# =========================
+# LLM / OpenAI
+# =========================
+
+openai
+
+# =========================
+# Web Search - Tavily
+# =========================
+
+tavily-python
+
+# =========================
+# Web Scraping - BeautifulSoup
+# =========================
+
+beautifulsoup4
+requests
+
+# =========================
+# Environment Variables
+# =========================
+
+python-dotenv
+
+# =========================
+# Optional: Rich Terminal Output
+# =========================
+
+rich
